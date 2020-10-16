@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet CRUD test","This test will create a new User","SUCCESS","2020-10-16T16:59:14.662+05:30[Asia/Calcutta]","0.0","8.38"
+"Pet CRUD test","Delete the user and verify if the user is deleted!","SUCCESS","2020-10-16T16:59:23.146+05:30[Asia/Calcutta]","0.0","6.03"
+"Pet CRUD test","This test will update a user","SUCCESS","2020-10-16T16:59:29.18+05:30[Asia/Calcutta]","0.0","6.89"
+"Sample serenity test","Get all pets","SUCCESS","2020-10-16T16:59:38.399+05:30[Asia/Calcutta]","0.0","3.52"

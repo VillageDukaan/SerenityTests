@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.petstore.junit.petinfo.SampleSerenityTest" skipped="0" tests="1" time="3.52" timestamp="2020-10-16 04:59:38"><testcase classname="com.petstore.junit.petinfo.SampleSerenityTest" name="Get all pets"/></testsuite>

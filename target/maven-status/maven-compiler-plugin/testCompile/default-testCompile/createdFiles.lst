@@ -1,0 +1,5 @@
+com\petstore\junit\petinfo\SampleSerenityTest.class
+com\petstore\junit\petinfo\PetCRUDTest.class
+com\petstore\utils\TestUtils.class
+com\petstore\testbase\TestBase.class
+com\petstore\cucumber\serenity\UserSerenitySteps.class
